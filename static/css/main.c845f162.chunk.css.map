@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACI,2BAAgC,CAChC,UAAY,CACZ,iBACJ,CACA,IACI,aACJ","file":"main.c845f162.chunk.css","sourcesContent":["body{\r\n    background: rgba(0, 0, 0, 0.609);\r\n    color: white;\r\n    text-align: center;\r\n}\r\n.pc{\r\n    color: darkblue;\r\n}"]}
