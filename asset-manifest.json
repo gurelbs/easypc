@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/easypc.cf/static/css/main.c845f162.chunk.css",
+    "main.js": "/easypc.cf/static/js/main.7098e64e.chunk.js",
+    "main.js.map": "/easypc.cf/static/js/main.7098e64e.chunk.js.map",
+    "runtime-main.js": "/easypc.cf/static/js/runtime-main.87668ca3.js",
+    "runtime-main.js.map": "/easypc.cf/static/js/runtime-main.87668ca3.js.map",
+    "static/js/2.dc5f6fd9.chunk.js": "/easypc.cf/static/js/2.dc5f6fd9.chunk.js",
+    "static/js/2.dc5f6fd9.chunk.js.map": "/easypc.cf/static/js/2.dc5f6fd9.chunk.js.map",
+    "index.html": "/easypc.cf/index.html",
+    "static/css/main.c845f162.chunk.css.map": "/easypc.cf/static/css/main.c845f162.chunk.css.map",
+    "static/js/2.dc5f6fd9.chunk.js.LICENSE.txt": "/easypc.cf/static/js/2.dc5f6fd9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87668ca3.js",
+    "static/js/2.dc5f6fd9.chunk.js",
+    "static/css/main.c845f162.chunk.css",
+    "static/js/main.7098e64e.chunk.js"
+  ]
+}

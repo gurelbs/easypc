@@ -1,0 +1,2 @@
+(this["webpackJsonpeasy-pc"]=this["webpackJsonpeasy-pc"]||[]).push([[0],{10:function(e,c,s){"use strict";s.r(c);var n=s(0),t=(s(1),s(3)),r=s.n(t);s(9);function a(){return Object(n.jsxs)(n.Fragment,{children:[Object(n.jsxs)("h1",{children:["Easy",Object(n.jsx)("span",{className:"pc",children:"PC"})]}),Object(n.jsx)("h4",{children:"!Build Your Computer"})]})}r.a.render(Object(n.jsx)(a,{}),document.getElementById("root"))},9:function(e,c,s){}},[[10,1,2]]]);
+//# sourceMappingURL=main.7098e64e.chunk.js.map
